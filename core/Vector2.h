@@ -1,6 +1,9 @@
 
 #pragma once
 
+#include <cstdlib>
+#include <cmath>
+
 namespace msdfgen {
 
 /**
